@@ -1,7 +1,7 @@
-# Node.js 10.x and 12.x for AWS Lambda
+# Node.js 6.x, 10.x and 12.x for AWS Lambda
 
 A [custom runtime](https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-now-supports-custom-runtimes-and-layers/)
-for AWS Lambda to execute functions in Node.js 10.x or 12.x
+for AWS Lambda to execute functions in Node.js 6.x 10.x or 12.x
 
 ## Getting Started
 
